@@ -1,3 +1,7 @@
+git clone https://github.com/kiralikbeyin/mongo.git && cd mongo
+linux electron pack
+
+
 # adminMongo
 
 ![npm downloads badge](https://img.shields.io/npm/dm/admin-mongo.svg "npm download badge")
@@ -14,6 +18,7 @@ adminMongo is a cross platform user interface (GUI) to handle all your MongoDB c
 </a>
 
 ## Installation
+
 
 1. Navigate to folder & install adminMongo: `git clone https://github.com/mrvautin/adminMongo.git && cd adminMongo`
 2. Install dependencies: `npm install`
