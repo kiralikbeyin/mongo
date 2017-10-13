@@ -1,5 +1,14 @@
-git clone https://github.com/kiralikbeyin/mongo.git && cd mongo
 linux electron pack
+
+
+git clone https://github.com/kiralikbeyin/mongo.git && cd mongo
+
+npm install
+
+
+pm2 start app.js -n mongo
+
+
 
 
 # adminMongo
